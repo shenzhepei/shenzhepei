@@ -1,13 +1,13 @@
-# Hi, I'm [Shenzhepei](https://github.com/shenzhepei) 👋
+# Hi, I'm [沈哲培](https://github.com/shenzhepei) 👋
 
-English | [中文](./README.md)
+[English](./README.md) | 中文
 
-A front-end developer focused on web development, front-end engineering, and practical tools.
+一名前端开发者，关注 Web 开发、前端工程化与实用工具。
 
-- 🔭 Exploring more efficient and reliable front-end development workflows
-- 🌱 Deepening my knowledge of TypeScript, modern front-end frameworks, and Node.js
-- 💡 I enjoy turning ideas into simple, useful products
-- 💬 Feel free to start a conversation through [Issues](https://github.com/shenzhepei/shenzhepei/issues)
+- 🔭 持续探索更高效、可靠的前端开发方式
+- 🌱 正在深入学习 TypeScript、现代前端框架与 Node.js
+- 💡 喜欢把想法做成简单、好用的产品
+- 💬 欢迎通过 [Issues](https://github.com/shenzhepei/shenzhepei/issues) 交流
 
 ---
 
