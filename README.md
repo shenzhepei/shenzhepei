@@ -28,6 +28,8 @@ A front-end developer focused on web development, front-end engineering, and pra
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" title="React" /></code>
   <code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" title="Three.js" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" title="Java" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" title="Python" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="Vite" title="Vite" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/gulp/gulp.png" alt="Gulp" title="Gulp" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" title="Git" /></code>
