@@ -42,8 +42,8 @@ A front-end developer focused on web development, front-end engineering, and pra
 ### AI
 
 <p>
-  <code><img height="24" src="https://cdn.simpleicons.org/openai" alt="Codex" title="Codex" /></code>
-  <code><img height="24" src="https://cdn.simpleicons.org/anthropic" alt="Claude Code" title="Claude Code" /></code>
-  <code><img height="24" src="https://cdn.simpleicons.org/zhipu" alt="GLM (智谱)" title="GLM (智谱)" /></code>
-  <code><img height="24" src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" title="DeepSeek" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png" alt="Codex" title="Codex" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/claude/claude.png" alt="Claude Code" title="Claude Code" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png" alt="GLM (智谱)" title="GLM (智谱)" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png" alt="DeepSeek" title="DeepSeek" /></code>
 </p>
