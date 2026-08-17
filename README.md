@@ -19,6 +19,7 @@ A front-end developer focused on web development, front-end engineering, and pra
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" title="HTML" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" title="CSS" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="SCSS" title="SCSS" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/less/less.png" alt="Less" title="Less" /></code>
 </p>
 
 ### Frameworks & Tools
@@ -31,8 +32,18 @@ A front-end developer focused on web development, front-end engineering, and pra
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" title="Java" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" title="Python" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="Vite" title="Vite" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" alt="webpack" title="webpack" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/gulp/gulp.png" alt="Gulp" title="Gulp" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" title="Git" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png" alt="macOS" title="macOS" /></code>
+</p>
+
+### AI
+
+<p>
+  <code><img height="24" src="https://cdn.simpleicons.org/openai" alt="Codex" title="Codex" /></code>
+  <code><img height="24" src="https://cdn.simpleicons.org/anthropic" alt="Claude Code" title="Claude Code" /></code>
+  <code><img height="24" src="https://cdn.simpleicons.org/zhipu" alt="GLM (智谱)" title="GLM (智谱)" /></code>
+  <code><img height="24" src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" title="DeepSeek" /></code>
 </p>
