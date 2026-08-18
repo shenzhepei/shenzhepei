@@ -37,6 +37,11 @@ A front-end developer focused on web development, front-end engineering, and pra
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" title="MySQL" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis" title="Redis" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" title="MongoDB" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" title="Docker" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" title="PostgreSQL" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" alt="Nginx" title="Nginx" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="Jenkins" title="Jenkins" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" alt="GitLab" title="GitLab" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="Vite" title="Vite" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" alt="webpack" title="webpack" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/gulp/gulp.png" alt="Gulp" title="Gulp" /></code>
