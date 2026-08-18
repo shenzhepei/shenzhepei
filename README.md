@@ -35,8 +35,14 @@ A front-end developer focused on web development, front-end engineering, and pra
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" alt="webpack" title="webpack" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/gulp/gulp.png" alt="Gulp" title="Gulp" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" title="Git" /></code>
-  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png" alt="macOS" title="macOS" /></code>
+</p>
+
+### Code Editor
+
+<p>
+  <code><img height="24" src="https://cdn.simpleicons.org/cursor" alt="Cursor" title="Cursor" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
 </p>
 
 ### AI
