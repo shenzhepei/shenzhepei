@@ -16,6 +16,8 @@ A front-end developer focused on web development, front-end engineering, and pra
 <p>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" title="Java" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" title="Python" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" title="HTML" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" title="CSS" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="SCSS" title="SCSS" /></code>
@@ -27,10 +29,14 @@ A front-end developer focused on web development, front-end engineering, and pra
 <p>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue" title="Vue" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" title="React" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" title="Next.js" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" alt="Nuxt.js" title="Nuxt.js" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" alt="NestJS" title="NestJS" /></code>
   <code><img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" title="Three.js" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js" /></code>
-  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" title="Java" /></code>
-  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" title="Python" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" title="MySQL" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis" title="Redis" /></code>
+  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" title="MongoDB" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" alt="Vite" title="Vite" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png" alt="webpack" title="webpack" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/gulp/gulp.png" alt="Gulp" title="Gulp" /></code>
