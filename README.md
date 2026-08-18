@@ -44,5 +44,4 @@ A front-end developer focused on web development, front-end engineering, and pra
 <p>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/chatgpt/chatgpt.png" alt="Codex" title="Codex" /></code>
   <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/claude/claude.png" alt="Claude Code" title="Claude Code" /></code>
-  <code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png" alt="DeepSeek" title="DeepSeek" /></code>
 </p>
